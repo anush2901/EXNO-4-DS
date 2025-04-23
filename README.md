@@ -52,4 +52,4 @@ The feature selection techniques used are:
 
 
 # RESULT:
-        Thus, Feature selection and Feature scaling has been used on thegiven dataset
+Thus, Feature selection and Feature scaling has been used on thegiven dataset
